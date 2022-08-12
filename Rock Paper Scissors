@@ -1,3 +1,5 @@
+# This Is A Rock Paper Scissors Program Code ByTech With Tim Offical Video  https://www.youtube.com/watch?v=DLn3jOsNRVE Go watch it if you want full credit to him
+
 import random
 
 user_wins = 0

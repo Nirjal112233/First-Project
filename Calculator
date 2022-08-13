@@ -1,0 +1,26 @@
+# This is a calculator
+
+FirstNumber = int(input("Enter FirstNumber :"))
+SecondNumber = int(input("Enter SecondNumber :"))
+
+print("Chose For Option")
+print("Choose For Addition : 1")
+print("Choose For Subtraction : 2")
+print("Choose For Multiplication : 3")
+print("Choose For Division : 4")
+
+choice = int(input("Choose Your Choice : "))
+if choice == 1:
+    sum = FirstNumber + SecondNumber
+    print(sum)
+elif choice == 2:
+    diff = FirstNumber - SecondNumber
+    print(diff)
+elif choice == 3:
+    product = FirstNumber * SecondNumber
+    print(product)
+elif choice == 4:
+    div = FirstNumber / SecondNumber
+    print(div)
+else:
+    print("Invalid choice")

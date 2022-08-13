@@ -1,2 +1,1 @@
-# First-Project
-# This Is Te PRoject We Do In School
+# : ) WELCOME TO MY FIRST PROJECT
